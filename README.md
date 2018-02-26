@@ -25,7 +25,7 @@ and fingers will both grasp what's going on.
 
 1. Suppose you "fork" a repo from `https://github.com/learn-co-students/awesome-lab`.
 2. You now have a _copy_ of that repo on your Github account i.e.
-   ``https://github.com/your-user-name/awesome-lab`. Technologiests would say
+   ``https://github.com/your-user-name/awesome-lab`. Technologists would say
    you "forked" the `awesome-lab` repo from the `learn-co-students` organization
    to the `your-user-name` organization.
 3. But you still don't have a *local* copy of this repository on your computer.
